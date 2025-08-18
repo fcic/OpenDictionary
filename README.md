@@ -66,5 +66,8 @@ To run OpenDictionary locally, follow these steps:
 ## Contributing
 Contributions are welcome! If you have any ideas for improvement or want to fix a bug, feel free to fork the repository, make your changes, and submit a pull request.
 
+### Contributors
+- [Karthik-9912](https://github.com/Karthik-9912) - Thanks for fixing the footer anchor, [Pull Request #2](https://github.com/ThatSINEWAVE/OpenDictionary/pull/2)
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
